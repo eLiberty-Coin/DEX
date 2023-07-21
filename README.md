@@ -1,2 +1,0 @@
-# DEX
-DEX of EGCSCAN
